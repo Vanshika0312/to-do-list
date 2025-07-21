@@ -10,4 +10,4 @@ A simple web-based To-Do List application made using HTML, CSS, and JavaScript.
 - Delete tasks
 - Tasks are saved in local storage
 
-Just open the "index.html" file in your browser or visit the [Live Site](https://your-username.github.io/to-do-list/).
+Just open the "index.html" file in your browser or visit the [Live Site](https://vanshika0312.github.io/to-do-list/).
