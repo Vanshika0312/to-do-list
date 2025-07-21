@@ -1,4 +1,4 @@
-# 📝 To-Do App
+# 📝 To-Do List
 
 A simple web-based To-Do List application made using HTML, CSS, and JavaScript.
 
